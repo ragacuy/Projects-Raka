@@ -1,0 +1,178 @@
+body {
+    background-color: aquamarine;
+    width: auto;
+    height: auto;
+    flex-direction: column;
+}
+
+.latar {
+    background-color: white;
+    width: 900px;
+    height: 1400px;
+    border-radius: 50px;
+}
+
+.profil {
+    background-color: aquamarine;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
+
+.profil:hover {
+    background-color: black;
+}
+
+
+.medsos {
+    background-color: rgb(0, 179, 255);
+}
+
+.medsos ul {
+    list-style: none;
+    display: flex;
+    padding: 14px 16px;
+}
+
+.medsos li {
+    margin-left: 10px;
+    color: white;
+    text-decoration: none;
+}
+
+.medsos a {
+   text-decoration: none;
+   color: white;
+}
+
+.medsos li a:hover {
+    font-size: 30px;
+    color: aquamarine;
+}
+
+.wa {
+    background-color: black;
+    height: 35px;
+    border-top-right-radius: 50px;
+    border-bottom-left-radius: 50px;
+}
+
+.wa b {
+    color: white;
+    float: left;
+    margin-left: 20px;
+    margin-top: 6px;
+}
+
+.no b {
+    float: left;
+    margin-left: 50px;
+}
+
+.pnd {
+    background-color: black;
+    height: 35px;
+    border-top-right-radius: 50px;
+    border-bottom-left-radius: 50px;
+}
+
+.pnd b {
+    color: white;
+    float: left;
+    margin-left: 20px;
+    margin-top: 6px;
+}
+
+.hb {
+    background-color: black;
+    height: 35px;
+    border-top-right-radius: 50px;
+    border-bottom-left-radius: 50px;
+}
+
+.hb b {
+    color: white;
+    float: left;
+    margin-left: 20px;
+    margin-top: 6px;
+}
+
+
+.pro li {
+    float: left;
+    margin-left: 80px;
+}
+
+.khl {
+    background-color: black;
+    height: 35px;
+    border-top-right-radius: 50px;
+    border-bottom-left-radius: 50px;
+}
+
+.khl b {
+    color: white;
+    float: left;
+    margin-left: 20px;
+    margin-top: 6px;
+}
+
+.khl2 li {
+    float: left;
+    margin-left: 80px;
+}
+
+.psn {
+    background-color: black;
+    height: 35px;
+    border-top-right-radius: 50px;
+    border-bottom-left-radius: 50px;
+}
+
+.psn b {
+    color: white;
+    float: left;
+    margin-left: 20px;
+    margin-top: 6px;
+}
+
+.psn2 {
+    float: left;
+    margin-left: 100px;
+}
+
+.psn2 b {
+    float: left;
+}
+
+.psn2 input {
+    float: left;
+    width: 750px;
+    height: 50px;
+}
+
+.psn2 button {
+    float: left;
+}
+
+.kata {
+    background-color: silver;
+    width: 900px;
+    height: 100px;
+}
+
+.kata b {
+    background-color: silver;
+}
+
+.copy {
+    background-color: black;
+    height: 90px;
+    width: 900px;
+    border-bottom-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+}
+
+.copy b {
+    color: white;
+}
